@@ -3,7 +3,7 @@
  * - ANY item can be selected ANY number of times.
  */
 
-//#include <algorithm>
+#include <algorithm>
 #include <iostream>
 #include <vector>
 
